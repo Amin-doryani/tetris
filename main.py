@@ -180,5 +180,7 @@ while run:
         if all(1 not in row for row in ob.gets()):
             objectlist.remove(ob)
             
+    print("adam doryani")
+    print("hello word")
 
 pygame.quit()
